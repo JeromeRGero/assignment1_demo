@@ -3,6 +3,3 @@ Name: Jerome
 Project Goal: Master Git!
 
 Favorite TV Show: MONK
-
-"the next time you feel like you are to small to make a difference, 
-try sleeping in bed with a mosquito"    -Gandhi
